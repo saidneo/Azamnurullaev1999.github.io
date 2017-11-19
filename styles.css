@@ -1,0 +1,119 @@
+body{
+	background-color: powderblue;
+
+}
+
+
+header {
+	text-align: center;
+	font-family: "Apple Chancery";
+	font-size: 30px;
+
+}
+
+
+nav {
+	border-style: none;
+	margin-top: 0px;
+	text-align: center;
+	
+	padding: 7px;
+	font-size: 50px;
+	background-color: #fc4a1a;
+	color: white;
+	
+
+	}
+	nav a
+	 {
+		text-decoration: none;
+        color:white;
+        
+        margin:0px;
+
+		}
+nav a:hover{
+	background-color:#eee;
+	color: #4abdac;
+}		
+.main{
+
+	margin-top: 20px;
+	display: inline-block;
+	border-style: none;
+	width: 100%;
+	border: 3px solid blue;
+    
+
+}
+
+.block1 p {
+	font-size: 20px;
+	
+
+}
+
+
+.block1{
+	float: left;
+	color: white;
+    display: inline-block;
+	border-style: none;
+	
+	width: 400px;
+	height:300px;
+	border-right: solid;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	border-color: blue;
+	color: white;
+}
+
+.main_hobbies{
+	color: white;
+    float: right;
+	border-left: solid blue;
+	border-right: solid;
+
+	width: 400px;
+	height:300px;
+	
+	margin-left: 0px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	border-color:blue;
+	
+}
+.main_hobbies p{
+	font-size: 20px;
+}
+
+ .img {
+   color: white;
+    float: right;
+	
+	border-left: solid blue;
+
+	width: 400px;
+	height:300px;
+	margin-right: 40px;
+	margin-left: 70px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	border-color:blue;
+}
+.img p {
+	font-size: 20px;
+}
+
+
+nav ul li {
+	list-style-type: none;
+}
+nav{
+	background-color: skyblue;
+}
